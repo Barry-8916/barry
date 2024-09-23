@@ -1,3 +1,3 @@
-# barry-portfolio
+# barry
 
 This is my portfolio.
